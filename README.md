@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**JoaoNrz/JoaoNrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre Mim:
+🎓 Estudante de Sistemas de Informação (7º termo) | 💻 Apaixonado por Tecnologia | 🌐 Focado em Desenvolvimento Web (Front-end) | 📱 Em busca de aprender sobre Desenvolvimento Mobile.
 
-Here are some ideas to get you started:
+🔍 Interessado em explorar novas linguagens de programação e expandir meus conhecimentos em tecnologias emergentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interesses:
+
+✈️ Viagens | 🏅 Esportes | 🎮 Jogos Eletrônicos | 🌍 Tecnologia e Inovação
+
+Contato:
+
+📧 Email: jpnarcizo02@gmail.com
+  
